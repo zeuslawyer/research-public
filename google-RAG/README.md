@@ -1,4 +1,4 @@
-# Reference docs:
+# Reference docs for `./vertexAI.ipynb`:
 
 1. All Cookbooks: https://docs.cloud.google.com/vertex-ai/generative-ai/docs/cookbook#all_tutorials
 
@@ -12,3 +12,4 @@
 5. Github - vertexAI/ Google cloud AI Platform Python SDK: https://github.com/googleapis/python-aiplatform
 6.
 7. RAG Engine API Reference: https://docs.cloud.google.com/vertex-ai/generative-ai/docs/model-reference/rag-api-v1
+ls
